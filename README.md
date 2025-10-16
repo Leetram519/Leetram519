@@ -1,4 +1,4 @@
-# Hi there, I'm Théo Marteel 👋
+# Hi there, I'm Leetram
 
 🎓 **Software Engineering Student**  
 - Specializing in **Cybersecurity** (aspiring!)  
