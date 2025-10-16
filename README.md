@@ -11,6 +11,3 @@
 💻 **Developer & Creator**  
 - From low-level programming to high-level design, I love crafting projects that bring ideas to life.  
 - Always curious and eager to learn new technologies and techniques.
-
-🌐 **Connect with me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Th%C3%A9o%20Marteel-blue)](https://www.linkedin.com/in/th%C3%A9o-marteel-a915ab250/)
