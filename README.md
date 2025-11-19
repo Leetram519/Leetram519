@@ -13,7 +13,7 @@ I make games and build web applications. Currently shipping our first commercial
 ## Professional Work
 
 **Angular Development** (v12-20)
-- **FeatureMyMusic.com (V20)** - Music Competition organizing website where artists can apply for competitions and encourage their fans to vote for them.
+- **[FeatureMyMusic.com](https://featuremymusic.com) (V20)** - Music Competition organizing website where artists can apply for competitions and encourage their fans to vote for them.
 - **Optimix Internal Tools (V12)** - Enterprise tooling and automation for a web scraping company.
 - **[Glasshat.fr](https://glasshat.fr/) (V19)** - Company website with backend API powering game services such as leaderboards, achievements and cloud saving.
 
