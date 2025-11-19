@@ -1,14 +1,14 @@
-# Hey, I'm Théo MARTEEL 👾
+# Hey, I'm Théo MARTEEL
 
 **Game Developer** @ [Glasshat Studios](https://glasshat.fr) | **CS Student** specializing in Cybersecurity | **Angular Developer**
 
 I make games and build web applications. Currently shipping our first commercial title on Steam while working with Angular 12-20 in production environments.
 
 ## What I'm Working On
-
-🎮 **Glasshat Studios** - CEO/Founder of a French game development studio. We're currently developing our first Steam release.
-🎵 **FNF: Doors** - A Friday Night Funkin' x Roblox Doors mod featuring 50+ songs, 3 hours of content, and a custom Haxeflixel engine.
-🌐 **GuessTheLimbus.com** - Built a Wordle-style game for the Limbus Company community.
+ 
+**Glasshat Studios** - CEO/Founder of a French game development studio. We're currently developing our first Steam release.  
+**FNF: Doors** - A Friday Night Funkin' x Roblox Doors mod featuring 50+ songs, 3 hours of content, and a custom Haxeflixel engine.  
+**GuessTheLimbus.com** - Built a Wordle-style game for the Limbus Company community.  
 
 ## Professional Work
 
