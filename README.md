@@ -31,7 +31,7 @@ I've worked on production Angular applications handling real users and real busi
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Leetram519&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leetram519&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leetram519&layout=compact&theme=dark&exclude_repo=lime,flixel-addons,flixel,haxeui-flixel,haxeui-core)
 
 ---
 
