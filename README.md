@@ -7,7 +7,7 @@ I make games and build web applications. Currently shipping our first commercial
 ## What I'm Working On
  
 - **[Glasshat Studios](https://glasshat.fr/)** - CEO/Founder of a French game development studio. We're currently developing our first Steam release.  
-- **[FNF: Doors]()** - A Friday Night Funkin' x Roblox Doors mod featuring 50+ songs, 3 hours of content, and a custom Haxeflixel engine based on the popular [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine).  
+- **[FNF: Doors](https://github.com/Leetram519/FNF-Doors-Public)** - A Friday Night Funkin' x Roblox Doors mod featuring 50+ songs, 3 hours of content, and a custom Haxeflixel engine based on the popular [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine).  
 - **[GuessTheLimbus.com](https://guessthelimbus.com/)** - Built a Wordle-style game for the Limbus Company community.  
 
 ## Professional Work
@@ -18,6 +18,8 @@ I make games and build web applications. Currently shipping our first commercial
 - **[Glasshat.fr](https://glasshat.fr/) (V19)** - Company website with backend API powering game services such as leaderboards, achievements and cloud saving.
 
 I've worked on production Angular applications handling real users and real business requirements.
+
+*Note : Most professional work, and some personal projects are closed source, so they might not appear in my Github Profile.*
 
 ## Tech I Actually Use
 
