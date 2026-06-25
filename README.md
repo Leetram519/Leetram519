@@ -37,4 +37,4 @@ I've worked on production Angular applications handling real users and real busi
 
 **Looking for:** Game development opportunities, Angular/web development contracts, or interesting indie collaborations.
 
-📫 Reach me: theomarteel.dev@proton.me | Discord : @leetram | [glasshat.fr](https://glasshat.fr)
+📫 Reach me: theo@glasshat.fr | Discord : @leetram | [glasshat.fr](https://glasshat.fr)
